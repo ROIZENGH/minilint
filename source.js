@@ -47,3 +47,4 @@ const summary = () =>{
 summary();
 
 console.log(betterWords.join(" "));
+
